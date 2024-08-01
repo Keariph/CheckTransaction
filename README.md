@@ -6,7 +6,7 @@ The console app for checking the risk of the transaction.
 ### Used technologies:
 - Visual Studio 2022
 - .Net 8.0
-
+- TronScan Api
 
 ## How to use 
 1) Clone the project.
